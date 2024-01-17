@@ -1,0 +1,8 @@
+terraform.tfstate.backup
+terraform.tfstate
+.terraform.lock.hcl
+.terraform/
+.terraform/terraform-provider-aws_v5.32.1_x5
+.terraform-provider-aws_v5.32.1_x5
+.terraform/providers/
+.terraform/providers/registry.terraform.io
